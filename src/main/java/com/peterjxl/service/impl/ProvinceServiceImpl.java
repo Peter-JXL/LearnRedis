@@ -8,7 +8,6 @@ import com.peterjxl.domain.Province;
 import com.peterjxl.service.ProvinceService;
 import com.peterjxl.util.JedisPoolUtils;
 import redis.clients.jedis.Jedis;
-import redis.clients.jedis.JedisPool;
 
 import java.util.List;
 
